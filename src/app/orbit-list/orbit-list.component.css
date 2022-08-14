@@ -26,3 +26,11 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+table tr.odd_col {
+	background-color: #dad8d8;
+}
+
+table tr.even_col {
+	background-color: #42f55a;
+}
